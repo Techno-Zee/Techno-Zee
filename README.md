@@ -2,8 +2,25 @@
 <h3 align="center">Cyber Sentinel | Ethical Hacker | Digital Forensics Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cs-Blu3Eye&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Cs-Blu3Eye&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+
+  <!-- Jumlah Repo -->
+  <img src="https://img.shields.io/badge/Repos-10-blue?style=flat" alt="repos" />
+
+  <!-- Tools Hacking -->
+  <img src="https://img.shields.io/badge/Tools-5-success?style=flat" alt="tools-hacking" />
+
+  <!-- Bug Bounty -->
+  <img src="https://img.shields.io/badge/Bug%20Bounty-3-critical?style=flat" alt="bug-bounty" />
 </p>
+
+<p align="center">
+  <a href="https://codeze3-roo.creator-spring.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Store-Click%20Here-blue?style=for-the-badge&logo=shopify" alt="store button"/>
+  </a>
+</p>
+
 
 ---
 
