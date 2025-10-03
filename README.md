@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Blu3Eye</h1>
+<h1 align="center">Hi 👋, I'm Techno Zee</h1>
 <h3 align="center">Cyber Sentinel | Ethical Hacker | Digital Forensics Specialist</h3>
 
 <p align="center">
