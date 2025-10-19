@@ -26,7 +26,7 @@
 
 🔍 **Who am I?**
 
-I'm a cyber operator known by codename **Blu3Eye**, dedicated to defending digital landscapes and uncovering the footprints of those who operate in the shadows. My focus areas include:
+I'm a cyber operator known by codename **Techno-Zee**, dedicated to defending digital landscapes and uncovering the footprints of those who operate in the shadows. My focus areas include:
 
 - 🎯 Penetration Testing (Web, Network, Wireless)
 - 🐧 Advanced Linux Usage and Scripting
@@ -48,4 +48,4 @@ I'm a cyber operator known by codename **Blu3Eye**, dedicated to defending digit
 ---
 
 
-<h3 align="center">💀 "Securing systems is an art—breaking them is science." — Blu3Eye</h3>
+<h3 align="center">💀 "Securing systems is an art—breaking them is science." — Techno-Zee</h3>
