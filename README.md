@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Cs-Blu3Eye&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=Techno-Zee&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
 
   <!-- Jumlah Repo -->
   <img src="https://img.shields.io/badge/Repos-10-blue?style=flat" alt="repos" />
@@ -40,9 +40,9 @@ I'm a cyber operator known by codename **Blu3Eye**, dedicated to defending digit
 <h3 align="left">📈 Contribution Activity</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cs-Blu3Eye/Cs-Blu3Eye/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cs-Blu3Eye/Cs-Blu3Eye/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cs-Blu3Eye/Cs-Blu3Eye/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techno-Zee/Techno-Zee/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techno-Zee/Techno-Zee/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Techno-Zee/Techno-Zee/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
