@@ -1,43 +1,56 @@
 <h1 align="center">Hi 👋, I'm Techno Zee</h1>
-<h3 align="center">Cyber Sentinel | Ethical Hacker | Digital Forensics Specialist</h3>
+<h3 align="center">Odoo Developer | ERP Engineer | Secure Business Systems</h3>
 
 <p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Techno-Zee&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-
-  <!-- Jumlah Repo -->
-  <img src="https://img.shields.io/badge/Repos-10-blue?style=flat" alt="repos" />
-
-  <!-- Tools Hacking -->
-  <img src="https://img.shields.io/badge/Tools-5-success?style=flat" alt="tools-hacking" />
-
-  <!-- Bug Bounty -->
-  <img src="https://img.shields.io/badge/Bug%20Bounty-3-critical?style=flat" alt="bug-bounty" />
+  <img src="https://komarev.com/ghpvc/?username=Techno-Zee&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Odoo%20ERP-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20PostgreSQL%20%7C%20Linux-success?style=flat" />
+  <img src="https://img.shields.io/badge/Security-ERP%20Hardening-critical?style=flat" />
 </p>
-
-<p align="center">
-  <a href="https://codeze3-roo.creator-spring.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Store-Click%20Here-blue?style=for-the-badge&logo=shopify" alt="store button"/>
-  </a>
-</p>
-
 
 ---
 
-🔍 **Who am I?**
+## 🔍 Who am I?
 
-I'm a cyber operator known by codename **Techno-Zee**, dedicated to defending digital landscapes and uncovering the footprints of those who operate in the shadows. My focus areas include:
+I'm **Techno-Zee**, an Odoo-focused ERP engineer with a strong background in system security.  
+I design, customize, and harden business systems to be **scalable, auditable, and resilient**.
 
-- 🎯 Penetration Testing (Web, Network, Wireless)
-- 🐧 Advanced Linux Usage and Scripting
-- 🧰 Mastery of Security Tools: Nmap, BurpSuite, Metasploit, Wireshark, etc.
-- 🧠 In-depth understanding of attack vectors, privilege escalation, and exploit development
-- 🕵️‍♂️ Certified Forensic Analyst — Log carving, memory analysis, malware tracing
-- 🧬 OSINT, Threat Intelligence, and Incident Response methodology
+My work operates at the intersection of:
+- Business process automation
+- Backend engineering
+- Security-first system architecture
 
 ---
 
-<h3 align="left">📈 Contribution Activity</h3>
+## 🧩 Core Expertise
+
+### 🏗️ Odoo Development
+- Custom modules, models, views, and workflows
+- Accounting, Inventory, HR, CRM customization
+- Odoo.sh & on-premise deployment
+- ORM optimization and clean architecture
+
+### 🐍 Backend & Infrastructure
+- Python backend engineering
+- PostgreSQL schema & performance tuning
+- Linux server administration
+- Git-based team workflows
+
+### 🔐 ERP Security & Hardening
+- Access control & record rules
+- Audit logging & traceability
+- Secure deployment & configuration
+- Incident-aware system design
+
+### 🧠 Security Background (Value Add)
+- Threat modeling for ERP systems
+- Incident response mindset
+- Digital forensics for post-incident analysis
+- Secure-by-design development approach
+
+---
+
+## 📈 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techno-Zee/Techno-Zee/output/pacman-contribution-graph-dark.svg">
@@ -47,5 +60,6 @@ I'm a cyber operator known by codename **Techno-Zee**, dedicated to defending di
 
 ---
 
-
-<h3 align="center">💀 "Securing systems is an art—breaking them is science." — Techno-Zee</h3>
+<h3 align="center">
+⚙️ "Reliable systems are built, secured, and understood — not assumed."
+</h3>
