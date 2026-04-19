@@ -57,7 +57,7 @@
 <h3 align="center">🌐 Community & Personal Projects</h3>
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h4>🤝 Building Community</h4>
       <ul align="left">
         <li>🧑‍🏫 Mentoring new offensive security enthusiasts</li>
@@ -66,13 +66,13 @@
         <li>💬 Discord server: “Red Team Village” (growing)</li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h4>📦 Personal Projects (Relevant)</h4>
       <ul align="left">
         <li>🕵️ <b>Recon-X</b> – OSINT automation framework</li>
         <li>🔐 <b>Odoo-Sec-Scanner</b> – vulnerability scanner for Odoo</li>
         <li>🐍 <b>PyEvade</b> – simple AV evasion techniques</li>
-        <li>🏠 <b>HomeLab</b> – AD + Kali + Splunk lab setup</li>
+        <li>🏠 <b>HomeLab</b> – VM + Parrot + Splunk lab setup</li>
       </ul>
     </td>
   </tr>
