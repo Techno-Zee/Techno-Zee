@@ -40,7 +40,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Techno-Zee&theme=radical&show_icons=true" alt="Techno-Zee trophies"/>
+        <img alt="GitHub Stats" src="https://gh-stats.com/api/Techno-Zee?show_icons=true&theme=radical">
     </td>
     <td align="center" width="33%">
       <img src="https://streak-stats.demolab.com?user=Techno-Zee&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
