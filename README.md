@@ -46,7 +46,7 @@
       <img src="https://streak-stats.demolab.com?user=Techno-Zee&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-Zee&layout=compact&theme=radical&langs_count=6" width="100%" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techno-Zee&theme=radical" alt="Profile details badge"/>
     </td>
   </tr>
 </table>
