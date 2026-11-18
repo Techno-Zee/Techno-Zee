@@ -12,16 +12,18 @@
 
 ---
 
-<!-- GRID 2 KOLOM: Who am I? + New Identity -->
+<!-- STACK 2 BAGIAN: Who am I? + Core Arsenal -->
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🔍 Who am I?</h3>
       <p>I'm <b>Techno-Zee</b> — an <b>offensive security engineer</b> who also masters ERP hardening. I break things ethically, then fix them better.</p>
       <p>My mission: <i>“Build resilient systems, grow a security-aware community, and ship private projects that matter.”</i></p>
       <p>⚡ Beyond security: I lead open-source initiatives, mentor new hackers, and develop tools for red teaming & defense.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3>🧩 Core Arsenal</h3>
       <ul>
         <li><b>🎯 Offensive Security:</b> Pentesting, Red Teaming, Threat Modeling</li>
@@ -29,23 +31,27 @@
         <li><b>🤝 Community:</b> Discord/WG leader, CTF organizer, mentorship</li>
         <li><b>📦 Personal Projects:</b> Security automation, OSINT tools, lab environments</li>
       </ul>
-     </td>
-   </tr>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- GRID 3 KOLOM: Statistik GitHub + Streak + Top Langs -->
+<!-- STACK 3 BAGIAN: Statistik GitHub + Streak + Top Langs -->
 <h3 align="center">📊 GitHub Analytics</h3>
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="100%">
       <img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=techno-zee&show_icons=true&count_private=true&theme=radical">
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="100%">
       <img src="https://streak-stats.demolab.com?user=Techno-Zee&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="100%">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techno-Zee&theme=radical" alt="Profile details badge"/>
     </td>
   </tr>
@@ -53,11 +59,11 @@
 
 ---
 
-<!-- SECTION: Community & Personal Projects (dalam grid 2 kolom) -->
+<!-- SECTION: Community & Personal Projects (stack atas-bawah) -->
 <h3 align="center">🌐 Community & Personal Projects</h3>
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h4>🤝 Building Community</h4>
       <ul align="left">
         <li>🧑‍🏫 Mentoring new offensive security enthusiasts</li>
@@ -66,7 +72,9 @@
         <li>💬 Discord server: “Red Team Village” (growing)</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h4>📦 Personal Projects (Relevant)</h4>
       <ul align="left">
         <li>🕵️ <b>Recon-X</b> – OSINT automation framework</li>
